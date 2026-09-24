@@ -1,0 +1,4 @@
+interface:
+  display_name: "Construtor de Monitor de Licitações"
+  short_description: "Descobre e implementa monitores de portais"
+  default_prompt: "Use $licitacao-monitor-builder para analisar este portal de licitação e construir um monitor implantável em VPS."
