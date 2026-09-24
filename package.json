@@ -1,0 +1,15 @@
+{
+  "name": "bll-signalr-monitor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Piloto local para monitorar um processo BLL Compras por SignalR 2.x.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "self-test": "node src/self-test.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}

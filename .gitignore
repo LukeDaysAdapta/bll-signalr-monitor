@@ -1,0 +1,7 @@
+node_modules/
+.env
+storage/
+processes.txt
+outputs/
+work/
+.DS_Store
